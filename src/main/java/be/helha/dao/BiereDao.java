@@ -2,6 +2,7 @@ package be.helha.dao;
 
 import be.helha.ebar.biere.Biere;
 
+import java.sql.SQLException;
 import java.util.List;
 
 public interface BiereDao {
