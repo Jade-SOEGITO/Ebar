@@ -1,0 +1,10 @@
+{
+  "ConnectionType" : "DB",
+  "DBType" : "Postgres",
+  "BDCredentials" : {
+    "HostName" : "5432",
+    "UserName" : "postgres",
+    "Password" : "1234",
+    "DBName" : "ebar"
+  }
+}
