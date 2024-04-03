@@ -12,8 +12,8 @@ import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestMethodOrder;
 
 import static org.junit.jupiter.api.Assertions.*;
-import be.helha.dao.BiereDao;
-import be.helha.dao.daoimpl.BiereDaoMockImpl;
+import be.helha.ebar.dao.BiereDao;
+import be.helha.ebar.dao.daoimpl.BiereDaoMockImpl;
 import be.helha.ebar.biere.Biere;
 
 @TestMethodOrder(OrderAnnotation.class)

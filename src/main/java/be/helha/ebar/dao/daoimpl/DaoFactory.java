@@ -1,6 +1,6 @@
-package be.helha.dao.daoimpl;
+package be.helha.ebar.dao.daoimpl;
 
-import be.helha.dao.BiereDao;
+import be.helha.ebar.dao.BiereDao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

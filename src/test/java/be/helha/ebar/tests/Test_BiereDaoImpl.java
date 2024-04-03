@@ -1,7 +1,7 @@
 package be.helha.ebar.tests;
 
-import be.helha.dao.daoimpl.BiereDaoImpl;
-import be.helha.dao.daoimpl.DaoFactory;
+import be.helha.ebar.dao.daoimpl.BiereDaoImpl;
+import be.helha.ebar.dao.daoimpl.DaoFactory;
 import be.helha.ebar.biere.Biere;
 import org.junit.jupiter.api.*;
 

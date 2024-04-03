@@ -1,4 +1,4 @@
-package be.helha.dao;
+package be.helha.ebar.dao;
 
 import be.helha.ebar.biere.Biere;
 

@@ -1,7 +1,7 @@
 package be.helha.ebar.usecase.usecaseimpl;
 
-import be.helha.dao.BiereDao;
-import be.helha.dao.daoimpl.DaoFactory;
+import be.helha.ebar.dao.BiereDao;
+import be.helha.ebar.dao.daoimpl.DaoFactory;
 import be.helha.ebar.biere.Biere;
 import be.helha.ebar.bundle.bundleimpl.BiereDTO;
 import be.helha.ebar.usecase.GestionBieres;
