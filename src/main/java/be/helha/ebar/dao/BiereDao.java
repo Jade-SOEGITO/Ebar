@@ -5,7 +5,7 @@ import be.helha.ebar.biere.Biere;
 import java.sql.SQLException;
 import java.util.List;
 
-public interface BiereDao {
+public interface BiereDao extends Dao {
     boolean ajouterBiere (Biere biere);
     Biere getBiere (String nom);
     List<Biere> listerBieres();
